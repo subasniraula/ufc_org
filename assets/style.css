@@ -12,8 +12,8 @@ body {
     height: 100vh;
     background-image:
         linear-gradient(to right bottom,
-        rgba(76, 216, 255, 0.9),
-        rgba(30, 108, 217, 0.8)),
+        rgba(255, 76, 76, 0.8),
+        rgba(30, 108, 217, 0.9)),
         url('../assets/bg_photo_hg6Fs2.jpg');
     background-size: cover;
     background-position: top;
