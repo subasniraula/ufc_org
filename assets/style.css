@@ -59,11 +59,12 @@ body {
     letter-spacing: 2px;
 }
 .info-box {
-    background-color: rgba(128, 128, 128, 0.3); /* 50% transparent gray */
+    background-color: rgba(135, 206, 235, 0.2); /* 50% transparent gray */
     border-radius: 15px; /* Curved edges */
     padding: 20px; /* Padding inside the box */
     margin-top: 20px; /* Space above the box */
     text-align: center; /* Center the text inside the box */
+    border: 2px solid white; /* White border */
 }
 
 .info-box p {
